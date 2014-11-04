@@ -10,12 +10,15 @@ tags: [테란, 저그, 프로토스, 전략, 전술]
 이런식으로 진행을 하면 된다.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/rJQqKWXzDYc" frameborder="0"> </iframe>
+
 다음 영상은 위 빌드를 사용한 영상이다.
 
 ## 테란 VS 테란
 다음은 대 테란전의 대표적인 빌드이다.
 8서플라이디팟-> 9정찰 -> 10배럭 -> 11 베스핀가스 -> 배럭 완성되고 마린 1기 생산 -> 14서플라이디팟-> 미네랄 200, 가스 100 되면 바로 팩토리 -> 20팩토리 재건설
 이런 식으로 진행하면 된다.
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/zlDl9NM-SIM" frameborder="0"> </iframe>
 
 다음 영상은 위 빌드를 사용한 영상이다.
 
@@ -25,6 +28,8 @@ tags: [테란, 저그, 프로토스, 전략, 전술]
 그래서 원팩토리 더블커맨드드 빌드를 사용할 것이다.
 8서플라이디팟 -> 9정찰 -> 10배럭 -> 11 베스핀가스 -> 13서플라이디팟(여기까지 진행하면 입구를 막을 수 있다.) -> 마린 4기생성 -> 미네랄 200, 가스 100 되면 팩토리 -> 탱크 뽑으면서 커맨드 건설 -> 앞마당 장악
 이런 식으로 진행하면 된다.
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/vtSl5kYEkhk" frameborder="0"> </iframe>
 
 다음 영상은 위 빌드를 사용한 영상이다.
 
