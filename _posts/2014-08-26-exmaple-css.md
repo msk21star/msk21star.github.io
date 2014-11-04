@@ -14,7 +14,7 @@ tags: [테란, 저그, 프로토스, 전략, 전술]
   height="315" 
   src="www.youtube.com/embed/rJQqKWXzDYc" 
   frameborder="0" 
-  allowfullscreen>
+  allowfullscreen="allowfullscreen">
 </iframe>
 
 다음 영상은 위 빌드를 사용한 영상이다.
