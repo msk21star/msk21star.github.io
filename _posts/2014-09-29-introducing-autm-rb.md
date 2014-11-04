@@ -1,36 +1,16 @@
 ---
-title: "Introducing Autm-rb: A Bootstrap-Based Jekyll Theme"
-tags: [Autm-rb, download]
+title: "임요환, 그는 누구인가?"
+tags: [임요환, 스타크래프트, 테란]
 ---
 
-![Autumn-rb](http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10561076_278209769029508_1423568667_n.jpg)
+![Autumn-rb](http://game.donga.com/images/news_images_m/msl080308_01.jpg)
 
-## Introduction
+이 스타크래프트라는 게임을 단순한 컴퓨터게임이 아니라 하나의 문화 스포츠 종목인 E-Sport로 성장시키는 데 큰 기여를 한 명의 남자가 있다. '스타크래프트는 몰라도 임요환은 안다'라는 말이 있을 정도로 이름이 알려진 E-Sport계의 큰 별, 테란의 황제라 불리우는 임요환이라는 사람이다.
 
-Autm-rb is a simple and beautiful [Jekyll](http://jekyllrb.com/) theme. Partly based on "shiori" and "midnight" themes. Now It looks really cool.
+[임요환](http://people.search.naver.com/search.naver?where=nexearch&query=%EC%9E%84%EC%9A%94%ED%99%98&sm=tab_etc&ie=utf8&key=PeopleService&os=94898)은 스타크래프트 역사상 그리고 E-Sport 역사상 가장 유명한 프로게이머이자 스타크래프트의 상징이고 세계 모든 테란유저의 목표이자 시조, E-Sport의 개척자 마지막으로 영원한 황제라고 할 정도로 엄청난 선수다. E-Sport에서 임요환 선수가 쌓은 커리어는 타의 추종을 불허한다. 임요환 선수를 위해 국방부에서 공군에 프로게임단을 만들 정도로 그의 파급력은 어마어마했다. 그가 보여주는 도박적이고 기상천외한 전략과 타이밍 그리고 매 경기마다 펼쳐지는 화려한 컨트롤은 그 당시, 현재까지도 E-Sport 팬들을 열광케 했다. 스타프로리그 3회 우승이라는 엄청난 기록을 남겼고 30대 프로게이머의 새 장을 장식했다. 현재 그는 프로 포커플레이어로써 해외 활동과 방송활동을 병행하고 있다. 테란유저라면, 적어도 스타크래프트 유저라면 임요환을 모른다는 것은 거짓말일 것이다.
 
-## Features
-Autm-rb can be used for both portfolio and blogging.
-
-- github, stackoverflow, twitter links
-- sharebuttons: twitter, facebook, google plus
-- comments via DISQUS
-- pagination
-- tags
-- codehighlighting
-- bootstrap components
-- font awesome
-- responsive
-- embeded video support
-- cool colors
-
-<a href="https://github.com/railsr/autm-rb" target="_blank" class="btn btn-success"><i class="fa fa-github fa-lg"></i> View on GitHub</a>
+다음 포스트에서는 임요환이 플레이했던 테란의 전략에 대해 알아보자.
 
 ## Author
 
-[Kirill Beletskiy](https://twitter.com/railsr7)
-
-![](https://pbs.twimg.com/profile_images/456926462780530688/fXBRjK6e_400x400.jpeg)
-
-<p><a href="https://twitter.com/railsr7" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @railsr7</a></p>
-<p class="text-muted">btw, I dont use twitter much</p>
+[Kim Myeonsik](https://www.facebook.com/profile.php?id=100002193531032)
