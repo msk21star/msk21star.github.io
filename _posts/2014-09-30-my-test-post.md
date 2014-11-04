@@ -1,17 +1,9 @@
 ---
-title: "This is a test post"
-tags: [test_tag]
+title: "스타크래프트와 E-Sports"
+tags: [임요환, 스타크래프트, E-Sports]
 ---
 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-<img src="http://placehold.it/960x350">
-
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-- It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-
+<img src="http://db.hankyung.com/news/app/imgview.php?aid=2008081168971&photoid=200808120430&size=1">
 
 {% highlight ruby %}
 
