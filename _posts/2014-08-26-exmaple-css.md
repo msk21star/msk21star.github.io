@@ -9,7 +9,7 @@ tags: [테란, 저그, 프로토스, 전략, 전술]
 (일꾼)8서플라이디팟-> 9정찰 -> 10배럭 ->13배럭 ->15서플, 베스핀가스
 이런식으로 진행을 하면 된다.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="http://www.youtube.com/embed/rJQqKWXzDYc" frameborder="0"> </iframe>
 다음 영상은 위 빌드를 사용한 영상이다.
 
 ## 테란 VS 테란
