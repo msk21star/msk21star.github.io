@@ -1,71 +1,36 @@
 ---
-title: "Autm-rb essential stuff"
-tags: [read this first, bootstrap, css]
+title: "테란의 전략 전술"
+tags: [테란, 저그, 프로토스, 전략, 전술]
 ---
 
-This theme uses [Bootstrap](http://getbootstrap.com/) for styling. Here're some stuff you should know before using it. To learn more, check out Bootstrap's [documentation](http://getbootstrap.com/css/).
+## 테란 VS 저그
+첫째로 대 저그전 일 때의 대표적인 빌드이다.
 
-## Headings
+(일꾼)8서플라이디팟-> 9정찰 -> 10배럭 ->13배럭 ->15서플, 베스핀가스
+이런식으로 진행을 하면 된다.
+다음 영상은 위 빌드를 사용한 영상이다.
 
-`h1` tags are reserved for the post title. Don't use them. Use `h2` tags mostly, and use `h3` if you need subheadings.
-Or just  edit <mark>stylesheets/style.css</mark>
+## 테란 VS 테란
+다음은 대 테란전의 대표적인 빌드이다.
+8서플라이디팟-> 9정찰 -> 10배럭 -> 11 베스핀가스 -> 배럭 완성되고 마린 1기 생산 -> 14서플라이디팟-> 미네랄 200, 가스 100 되면 바로 팩토리 -> 20팩토리 재건설
+이런 식으로 진행하면 된다.
+다음 영상은 위 빌드를 사용한 영상이다.
 
-## Paragraphs
+## 테란 VS 프로토스
+마지막으로 프로토스를 상대할 때 빌드이다.
+프로토스를 상대할 때는 초반 러쉬를 조심해야 하기 때문에 입구를 막아주고 앞마당을 빨리 가져가는 것이 좋다.
+그래서 원팩토리 더블커맨드드 빌드를 사용할 것이다.
+8서플라이디팟 -> 9정찰 -> 10배럭 -> 11 베스핀가스 -> 13서플라이디팟(여기까지 진행하면 입구를 막을 수 있다.) -> 마린 4기생성 -> 미네랄 200, 가스 100 되면 팩토리 -> 탱크 뽑으면서 커맨드 건설 -> 앞마당 장악
+이런 식으로 진행하면 된다.
+다음 영상은 위 빌드를 사용한 영상이다.
 
-**This is a regular paragraph.** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <mark>standard</mark> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+위 영상들을 제외하고도 정말 수많은 전략과 전술이 있다. 매우 많기 때문에 다 기술할 수 없기에 대표적인 전략만 작성해보았다.
+놀라운 사실은 저 위에 나와있는 빌드는 모두 임요환 선수가 고안해낸 방법들이다. 필자는 테란유저로써 그리고 E-Sport의 팬으로써 임요환선수에게 경의를 표한다.
 
-Links look like [this](#). *Emphasis*. <mark>Marked</mark>. <del>Deleted</del>. <code>Code</code>. <kbd>user-input</kbd>.
+스타크래프트는 마재윤의 조작사건과 스타크래프트2의 등장으로 E-Sport 역사의 뒤안길로 사라졌다. 필자의 연령대 사람들이 나이가 들어 갈수록 임요환의 이름을 기억하는 줄어들 수도 있지만 E-Sport역사에는 이렇게 기억될 것이다.
 
-## Blockquotes
+'테란의 황제 임요환' 이라고
 
-> **This is a blockquote**. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+## Author
 
-## Lists
-
-* Unordered List
-* Unordered List
-* Unordered List
-
-1. Ordered List
-1. Ordered List
-1. Ordered List
-
-## Tables
-
-You don't need to add the Bootstrap `.table` class to `table`. This is how it works.
-
-<table>
-  <thead>
-    <tr>
-      <th>name</th>
-      <th>type</th>
-      <th>link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jekyll</td>
-      <td>BlogEngine</td>
-      <td><a href="http://jekyllrb.com/">jekyllrb.com</a></td>
-    </tr>
-  </tbody>
-</table>
-
-## Code
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('jekyll')
-#=> prints 'Hi, jekyll' to STDOUT.
-{% endhighlight %}
-
-## Images
-
-Images are responsive.
-![]({{site.baseurl}}/images/in_post_images/colors_used.png)
-
-## That's it!
-
-Here're some more examples [{{ page.previous.title }}]({{ page.previous.url | prepend:site.baseurl }}) to learn more.
+[So Gwanglin](https://www.facebook.com/gwanglin.so?fref=ts)
